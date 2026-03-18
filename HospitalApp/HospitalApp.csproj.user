@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<<<<<<< HEAD
+  <ItemGroup />
+=======
+  <ItemGroup>
+    <Compile Update="Forms\Doctors\AppointmentsPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctors\DietPlanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctors\DoctorShell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctors\MyPatientsPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctors\ViewersControlPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\BookAppointmentPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\DoctorsPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\MedicalHistoryPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\MyAppointmentsPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\NutritionAdvicePage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\PatientShell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Patients\ViewersListPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Shared\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+>>>>>>> 85c9376 (Chief section added)
+</Project>
