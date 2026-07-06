@@ -421,10 +421,10 @@ This project was built as a course submission at **Misr Higher Institute for Com
 | Name | Role | GitHub | LinkedIn |
 |---|---|---|---|
 | **Mo'men Tamer** | Project Lead · Full backend architecture, database design & schema, all repositories, models, helpers, seed data, clinical logic, UI integration & bug fixes | [Moamen-Tamer](https://github.com/Moamen-Tamer) | [Mo'men Tamer](https://www.linkedin.com/in/mo-men-tamer-2005mt) |
-| **Haneen Abdo** | Patient Portal UI — designed and built the Patient shell, all patient-facing pages (Doctors, Book Appointment, My Appointments, Medical History, Visitors, Nutrition Advice) and their layouts | [Haneen Abdo](https://github.com/haneenabdo704-sys) | (haneen abdo)[https://www.linkedin.com/in/haneen-abdo-582469413/] |
+| **Haneen Abdo** | Patient Portal UI — designed and built the Patient shell, all patient-facing pages (Doctors, Book Appointment, My Appointments, Medical History, Visitors, Nutrition Advice) and their layouts | [Haneen Abdo](https://github.com/haneenabdo704-sys) | [haneen abdo](https://www.linkedin.com/in/haneen-abdo-582469413/) |
 | **Fathy Said** | Doctor Dashboard UI — contributed to shared form layouts, Login and Register screens | [Fathy-Said](https://github.com/Fathy-Said-Hub) | [Fathy Said](https://www.linkedin.com/in/fat-hy-said-a96599358/) |
 | **Mazen Akl** | Chief Dashboard UI — designed and built the Chief shell and all kitchen workflow pages | [MazinAkl](https://github.com/MazinAkl) | [Mazin Akl](https://www.linkedin.com/in/mazin-akl-0928b0413/) |
-| **Nada Mohamed** | UI design support — contributed to patients forms UI design | [nadaaa33](https://github.com/nadaaa33) | (Nada Mohamed)[https://www.linkedin.com/in/nada-mohamed-b65857413/] |
+| **Nada Mohamed** | UI design support — contributed to patients forms UI design | [nadaaa33](https://github.com/nadaaa33) | [Nada Mohamed](https://www.linkedin.com/in/nada-mohamed-b65857413/) |
 
 ---
 
